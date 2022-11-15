@@ -1,0 +1,26 @@
+.heading{
+    font-size: 18px;
+}
+body{
+    background-color: white;
+}
+div{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 15px auto;
+    padding: 15px;
+    width: 300px;
+    height: fit-content;
+}
+p{
+    font-size: 14px;
+}
+#introduction{
+    color: green;
+}
+#css-introduction{
+    color: red;
+}
+#css-attributes{
+    color: blue;
+}
